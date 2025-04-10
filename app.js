@@ -4,7 +4,3 @@ const burger = document.querySelector('.burger')
 burger.addEventListener('click', function(){
     menulinks.classList.toggle('active')
 })
-
-
-
-alert('SIGMA SIGMA BOY')
