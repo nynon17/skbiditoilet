@@ -269,6 +269,15 @@
     background-size: 100% 100%;
 }
 
+.szczepanski {
+    background-image: url("images/szczepanski.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
 @media only screen and (max-width: 768px) {
     .navbar {
       width: 100vw;
@@ -340,6 +349,7 @@
     }
   
     .siusiak17,
+    .szczepanski,
     .bbombardilo,
     .trippitroppa,
     .tim,
