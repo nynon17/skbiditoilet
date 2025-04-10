@@ -11,3 +11,6 @@ menu.addEventListener('click', function(){
     menulinks.classList.toggle('active')
 })
 console.log(123)
+
+
+alert('SIGMA SIGMA BOY')
